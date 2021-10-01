@@ -36,31 +36,34 @@ Steps to be followed for contribution:-
 
 ```
 STEP1: Fork [this](https://github.com/ColonelAVP/Hacktoberfest_21) repository.
+```
 
+```
 STEP2: Clone the forked repository into your local machine using following command:
-```bash
-git clone https://github.com/ColonelAVP/Hacktoberfest_21.git
+       - git clone https://github.com/ColonelAVP/Hacktoberfest_21.git
 ```
 
- STEP3: Into your local machine, Navigate to the project directory.
-
-```bash
-cd Hacktoberfest_21
 ```
-
+ STEP3: Into your local machine, Navigate to the project directory using following command. 
+        - cd Hacktoberfest_21
+```
+ 
+```
 STEP4: Make Required changes.
+```
+ 
 
+```
 STEP5: Stage your changes and commit using following commands:
-```bash
-git add .
-
-git commit -m "<your_commit_message>"
+       - git add .
+       - git commit -m "<your_commit_message>"
+``` 
+ 
+``` 
+STEP6: Push your local commits to the remote repository using following command:
+       - git push 
 ```
-
-STEP6: Push your local commits to the remote repository.
-```bash
-git push 
-```
+ 
 ## **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_21](https://github.com/ColonelAVP/Hacktoberfest_21). :v: :heart: 💥
 
 <br><br>
