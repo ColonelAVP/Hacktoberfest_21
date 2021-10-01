@@ -29,10 +29,8 @@ Steps to be followed to make contribution ⬇️ :-
  
 <br><br>
   
-## Steps to be follow :scroll:
-
-## Contributing :handshake:
-
+## Steps to be followed to contribute: :scroll:
+ 
 ```
 STEP1: Fork [this](https://github.com/ColonelAVP/Hacktoberfest_21) repository.
 ```
