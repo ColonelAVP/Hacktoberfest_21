@@ -16,7 +16,7 @@
 ## What is Hacktoberfest? :thinking:
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+[hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 ### Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
@@ -24,97 +24,44 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
  
  # Hacktoberfest_2021 🌈
-  
- - Choose from these tasks below 👇
-      - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level)
-      - Intermediate level 📁 <br><br>
-      
+Steps to be followed for contribution:-
+- Add any programming question and its solution in a separate folder and make your way to Open Source.
+- Add your name to the contributers and Github profile link in ```[<YOUR NAME](<URL OF YOUR GITHUB PROFILE)```
  
-<img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
-
-## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231) :innocent:
-Add any programming question and its solution in a separate folder and make your way to Open Source.
- 
- ```
- <table width="100%"><tr><td align="center"><p><a href="portfolio link">Your name</a></p><img src=" Image URL " /></td>
-```
-  
-
 <br><br>
   
-
- <img height="30" src="https://img.shields.io/badge/Intermediate level -blue.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
-  
- - You can also contribute these project 👇
-  
- [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-  
- |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
-
-  <br>
-
-[Generation](https://github.com/SamarpanCoder2002/Generation.git)
-
- |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**Generation**](https://github.com/SamarpanCoder2002/Generation) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Generation?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Generation/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Generation?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Generation?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls?q=is%3Apr+is%3Aclosed)   |
-
-
-
-
 ## Steps to follow :scroll:
 
 ## Contributing :handshake:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest_2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021)[![license](https://img.shields.io/github/license/Kushal997-das/Hacktoberfest_2021.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/main/LICENSE)
+```
+STEP1: Fork [this](https://github.com/ColonelAVP/Hacktoberfest_21) repository.
 
-> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
-
-
-
-*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
-
-**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
-
-**3** Clone the forked repository.
-
+STEP2: Clone the forked repository into your local machine using following command:
 ```bash
-git clone https://github.com/<your-github-username>/Hacktoberfest_2021
+git clone https://github.com/ColonelAVP/Hacktoberfest_21.git
 ```
 
-**4** Navigate to the project directory.
+ STEP3: Into your local machine, Navigate to the project directory.
 
 ```bash
-cd Hacktoberfest_2021
-
+cd Hacktoberfest_21
 ```
 
-**5** Create a new branch.
+STEP4: Make Required changes.
 
+STEP5: Stage your changes and commit using following commands:
 ```bash
-git checkout -b <your_branch_name>
-```
-
-**6** Make changes.
-
-**7** Stage your changes and commit
-
-```bash
-git add -A
+git add .
 
 git commit -m "<your_commit_message>"
 ```
 
-**8** Push your local commits to the remote repo.
-
+STEP6: Push your local commits to the remote repository.
 ```bash
-git push -u origin <your_branch_name>
+git push 
 ```
-
-
-**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/Kushal997-das/Hacktoberfest_2021). :v: :heart: 💥
+## **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_21](https://github.com/ColonelAVP/Hacktoberfest_21). :v: :heart: 💥
 
 <br><br>
   
