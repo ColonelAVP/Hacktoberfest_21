@@ -23,10 +23,10 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
  
 # **Hacktoberfest_2021** 🌈
+ 
+Before contributing, check the [contribution rules](https://github.com/ColonelAVP/Hacktoberfest_21/blob/master/contributing.md) and then proceed
 Steps to be followed to make contribution ⬇️ :-
 - Add any programming question and its solution in this [file](https://github.com/ColonelAVP/Hacktoberfest_21/tree/master/program) and make your way to Open Source.
-- Add your name to the [contributers](https://github.com/ColonelAVP/Hacktoberfest_21/blob/master/contributers.md) and Github profile link in ```[<YOUR NAME](<URL OF YOUR GITHUB PROFILE)```
- 
 <br><br>
   
 ## Steps to be followed to contribute: :scroll:
