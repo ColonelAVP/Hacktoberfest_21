@@ -70,14 +70,14 @@ class Deque:
         elif position == 'f': return(self.deque_.pop(0))
         else: raise ValueError("mode must be 'r' for rear or 'f' for front")
 
-class array:
+class Array:
     def __init__(self, size, base_value=0):
-        self.arr = [[base_value for x in size[0]] for y in range(size[1])]
+        self.arr = [[base_value for x in range(size[0])] for y in range(size[1])]
         self.size = size
 
     def insert(self, position, data):
         '''insert @data at @position (must be Row then Column)'''
-        self.arr[position[1][0]] = data
+        self.arr[position[1]][position[0]] = data
     
     def extract(self, position):
         '''Extract the data at @position (must be Row then Column)'''
